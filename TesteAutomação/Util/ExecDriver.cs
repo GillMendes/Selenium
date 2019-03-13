@@ -7,6 +7,7 @@ using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.Support;
 using OpenQA.Selenium.Support.UI;
+using OpenQA.Selenium.Edge;
 
 namespace ExecutarDriver
 {
